@@ -5,7 +5,10 @@ This model uses data structure concepts and decreases time complexity of searchi
 2. Clone Repository
 3. Run `bgi.sln`
 # Output
-AVL Output:
+`AVL Output:`
+
 ![avl ouput](https://github.com/abdullahtahir-cs/hybrid-chaining-model/assets/151562660/ef607191-3b8a-4e4d-80b2-764ea79df814)
-BST Output:
+
+`BST Output:`
+
 ![bst output](https://github.com/abdullahtahir-cs/hybrid-chaining-model/assets/151562660/411fd2b1-2faa-4401-a0fc-4dbfc47f3c62)
