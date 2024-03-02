@@ -1,5 +1,5 @@
 # Hybrid Chaining model using AVL and BST trees
-This model uses data structure concepts and decreases time complexity of searching from O(n^2) to O(log n)
+This model uses data structure and algortihm design concepts to reduce the time complexity of searching from O(n^2) to O(log n), it enhacnes the searching speed of algorithm.
 # How to Run
 1. Install Visual Studio IDE
 2. Clone Repository
