@@ -1,9 +1,9 @@
 # Hybrid Chaining model using AVL and BST trees
 This model uses data structure and algorithm design concepts to reduce the time complexity of searching from O(n^2) to O(log n), which enhances the searching speed of algorithm.
 # How to Run
-1. Install Visual Studio IDE
-2. Clone Repository
-3. Run `bgi.sln`
+1. Install Visual Studio IDE.
+2. Clone Repository.
+3. Run `bgi.sln`.
 # Output
 `AVL Output:`
 
